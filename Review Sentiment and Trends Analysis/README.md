@@ -13,8 +13,7 @@ The **Review Sentiment and Trend Analysis Dashboard** is an advanced analytical 
 3. [Dashboard Features](#dashboard-features)
 4. [Key Calculated Columns and Measures](#key-calculated-columns-and-measures)
 5. [Detailed Chart Descriptions and Insights](#detailed-chart-descriptions-and-insights)
-6. [File Links](#file-links)
-7. [Conclusion](#conclusion)
+6. [Conclusion](#conclusion)
 
 ---
 
@@ -29,10 +28,6 @@ The dataset used for this project includes detailed customer review data, which 
 - **HelpfulnessNumerator:** Number of users who found the review helpful.
 - **HelpfulnessDenominator:** Total number of users who voted on the review.
 - **Summary:** Short description or summary of the review.
-
-### Dataset Link
-
-- [Dataset on Google Drive](#(https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews))
 
 ---
 
@@ -122,17 +117,9 @@ The dashboard is designed to present insights clearly and interactively. It incl
 
 ---
 
-## File Links
-
-- [Dataset on Google Drive](#(https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews))
-- [Excel Worksheet File](#(https://docs.google.com/spreadsheets/d/1cqVKt9uQxxlVc8OKnEsye3AyBVVv91xO/edit?usp=drive_link&ouid=108735204769829395145&rtpof=true&sd=true))
-
----
-
 ## Conclusion
 
 The **Review Sentiment and Trend Analysis Dashboard** is a comprehensive tool for analyzing customer reviews and deriving actionable insights. With its interactive features, it empowers businesses to understand trends, improve product offerings, and enhance customer satisfaction.
 
 Feel free to explore the dashboard and leverage the insights to drive your business decisions!
-
 
