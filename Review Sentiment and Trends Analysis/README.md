@@ -41,6 +41,12 @@ The main goals of the project are:
 
 ---
 
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/Excel-Projects/blob/main/Review%20Sentiment%20and%20Trends%20Analysis/Screenshot%202025-01-27%20154503.png)
+
+---
+
 ## Dashboard Features
 
 The dashboard is designed to present insights clearly and interactively. It includes:
