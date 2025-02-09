@@ -4,6 +4,12 @@
 
 Welcome to the **Data Science Jobs Analysis Dashboard** repository! This project showcases a comprehensive analysis of the job market in the field of data science for the year 2024. With an emphasis on salaries, industries, hiring trends, and skill requirements, this interactive dashboard provides valuable insights for aspiring data professionals and hiring managers alike.
 
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/Excel-Projects/blob/main/Data%20Science%20Jobs%20Analysis/Screenshot%202025-01-26%20152811.png)
+
+---
+
 ## 📖 Table of Contents
 
 - [Introduction](#-introduction)
