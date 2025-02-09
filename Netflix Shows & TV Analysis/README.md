@@ -17,6 +17,12 @@ Whether you're a data enthusiast, Netflix fan, or a business analyst, this dashb
 
 ---
 
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/Excel-Projects/blob/main/Netflix%20Shows%20%26%20TV%20Analysis/netflix%20analysis.png)
+
+---
+
 ## 📚 Table of Contents
 
 1. [Features](#features)
