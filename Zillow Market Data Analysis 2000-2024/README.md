@@ -8,6 +8,12 @@ The project encompasses a wide range of processes, from  data preparation to cre
 
 ---
 
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/Excel-Projects/blob/main/Zillow%20Market%20Data%20Analysis%202000-2024/zillow.png)
+
+---
+
 ## Table of Contents
 
 1. [Dataset Overview](#dataset-overview)
