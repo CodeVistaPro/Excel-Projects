@@ -26,6 +26,12 @@ The dashboard aims to:
 
 ---
 
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/Excel-Projects/blob/main/Online%20Sales%20Analysis/Online%20Sales%20Analysis.png)
+
+---
+
 ## Features
 - **Key Performance Indicators (KPIs)**: Display total revenue, total orders, total sales, and average order value. 🏆
 - **Interactive Slicers**: Allow users to filter data by year, country, category, and month. 🎛️
